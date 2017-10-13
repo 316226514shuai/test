@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>购物车</title>
+  <link rel="stylesheet" href="__PUBLIC__/css/all.css" />
+  <link rel="stylesheet" href="__PUBLIC__/css/buycar.css" />
+ </head>
+ <body>
+  <!-- header -->
+  <!-- nav -->
+  <!-- <script src="js/header.js"></script> -->
+  <include file='Public/tpl/header.html'/>
+  <!-- section -->
+  <div id="section">
+    <div>
+      <div class='sec_top'>
+        <ul>
+          <li><a href="index.html">首页</a>&nbsp; </li>
+          <li>&nbsp;><a href="#">&nbsp;&nbsp;配件</a>&nbsp;</li>
+        </ul>
+      </div>
+      <div class="sec_middle" id='plist'>
+        <ul>
+          <!-- <li>
+            <img src="__PUBLIC__/images/57a9a8cf86cb727541.jpg!thumb220.jpg"/>
+            <h4>气球恐龙绿帽子</h4>
+            <h3>￥188</h3>
+            <a href="#"><img src="__PUBLIC__/images/pinkcar.png"/></a>
+          </li> -->
+          <volist name="re" id="data">
+            <li>
+              <img src="__PUBLIC__/{$data.pic}"/>
+              <h4>{$data.pname|mb_substr=0,15}</h4>
+              <h3>￥{$data.price}</h3>
+              <a href="{$data.pid}" class='addcart'><img src="__PUBLIC__/images/pinkcar.png"/></a>
+            </li>
+          </volist>
+        </ul>
+        <ol class="pager">
+          {$pageList}
+          <!--
+            <li><a href="#">1</a></li>
+            <li><a href="#">2</a></li>
+            <li class="active"><a href="#">3</a></li>
+            <li><a href="#">4</a></li>
+            <li><a href="#">5</a></li>
+            -->
+        </ol>
+      </div>
+    </div>
+  </div>
+  <!-- footer -->
+  <!-- down -->
+  <!-- article -->
+  <div class="zhe">
+    <div></div>
+    <div>
+      <h2></h2>
+      <span>&times;</span>
+    </div>
+  </div>
+  <!-- <script src="__PUBLIC__/js/footer.js"></script> -->
+  <include file='Public/tpl/footer.html'/>
+  <script src="__PUBLIC__/js/jquery-1.11.3.js"></script>
+  <script src="__PUBLIC__/js/all.js"></script>
+  <script src="__PUBLIC__/js/buycar.js"></script>
+ </body>
+</html>

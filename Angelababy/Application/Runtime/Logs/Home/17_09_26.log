@@ -1,0 +1,1641 @@
+[ 2017-09-26T17:23:35+08:00 ] ::1 /Angelababy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.087350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0612s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0319s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0549s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 8 行.
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.018901s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.019075s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.271956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.272022s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001916s ]
+
+[ 2017-09-26T17:23:49+08:00 ] ::1 /Angelababy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0972s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0168s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 8 行.
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000304s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024787s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001018s ]
+
+[ 2017-09-26T17:23:52+08:00 ] ::1 /Angelababy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0321s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0164s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 8 行.
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000359s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000450s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026383s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001284s ]
+
+[ 2017-09-26T17:58:10+08:00 ] ::1 /Angelababy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0497s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0422s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 7 行.
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 8 行.
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000749s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000925s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056916s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001814s ]
+
+[ 2017-09-26T17:58:12+08:00 ] ::1 /Angelababy/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042345s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042403s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-09-26T17:58:15+08:00 ] ::1 /Angelababy/Login/checked
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\LoginController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `meitu_user` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-09-26T17:58:16+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0147s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0114s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000216s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000267s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022160s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001168s ]
+
+[ 2017-09-26T18:00:24+08:00 ] ::1 /Angelababy/Bf1/Bf1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0567s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0327s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058500s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001123s ]
+
+[ 2017-09-26T18:00:30+08:00 ] ::1 /Angelababy/Bf1/M6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0414s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0299s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 8 行.
+ERR: 非法操作:M6
+
+[ 2017-09-26T18:00:38+08:00 ] ::1 /Angelababy/M6/M6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001628s ]
+ERR: 无法加载控制器:M6
+
+[ 2017-09-26T18:00:50+08:00 ] ::1 /Angelababy/Usercenter/usercenter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001617s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002644s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0398s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0322s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 8 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000340s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000452s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.115244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.115364s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003198s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003386s ]
+
+[ 2017-09-26T18:00:51+08:00 ] ::1 /Angelababy/Usercenter/php/buycar_chaxun.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0398s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0195s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 8 行.
+ERR: 非法操作:php
+
+[ 2017-09-26T18:06:15+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0549s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0298s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0896s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0840s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000723s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000840s ]
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078798s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001253s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002706s ]
+
+[ 2017-09-26T18:06:42+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0443s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0309s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0305s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0012s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000617s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000721s ]
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.071339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002276s ]
+
+[ 2017-09-26T18:06:55+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0438s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0313s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.1151s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0014s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000614s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000723s ]
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002652s ]
+
+[ 2017-09-26T18:07:05+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0448s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0317s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0297s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0012s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000613s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000715s ]
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 76 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002227s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002383s ]
+
+[ 2017-09-26T18:07:30+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000998s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0504s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0208s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0213s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0013s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000476s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000677s ]
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058071s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001202s ]
+
+[ 2017-09-26T18:08:11+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0284s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0168s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0169s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0007s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000606s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000744s ]
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 70 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 71 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 73 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined variable: vo D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.091341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001053s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\Angelababy\ThinkPHP\Common\functions.php:850) D:\WWW\Angelababy\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\Angelababy\ThinkPHP\Common\functions.php:850) D:\WWW\Angelababy\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\Angelababy\ThinkPHP\Common\functions.php:850) D:\WWW\Angelababy\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002524s ]
+
+[ 2017-09-26T18:08:48+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0431s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0297s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0310s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0012s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000627s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000781s ]
+NOTIC: [2] Illegal string offset 'slice(0,2)' D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Array to string conversion D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined index: price*Array D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [2] Illegal string offset 'slice(0,2)' D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Array to string conversion D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined index: price*Array D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [2] Illegal string offset 'slice(0,2)' D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Array to string conversion D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined index: price*Array D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [2] Illegal string offset 'slice(0,2)' D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Array to string conversion D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined index: price*Array D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [2] Illegal string offset 'slice(0,2)' D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Array to string conversion D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined index: price*Array D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [2] Illegal string offset 'slice(0,2)' D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Array to string conversion D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined index: price*Array D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [2] Illegal string offset 'slice(0,2)' D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Array to string conversion D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined index: price*Array D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [2] Illegal string offset 'slice(0,2)' D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 72 行.
+NOTIC: [8] Array to string conversion D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+NOTIC: [8] Undefined index: price*Array D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110294s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001202s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\Angelababy\ThinkPHP\Common\functions.php:850) D:\WWW\Angelababy\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\Angelababy\ThinkPHP\Common\functions.php:850) D:\WWW\Angelababy\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at D:\WWW\Angelababy\ThinkPHP\Common\functions.php:850) D:\WWW\Angelababy\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002914s ]
+
+[ 2017-09-26T18:10:16+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0439s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0188s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0189s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0006s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000384s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000468s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057240s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057310s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001344s ]
+
+[ 2017-09-26T18:12:05+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0449s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0317s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0307s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0017s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000604s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000710s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069309s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001699s ]
+
+[ 2017-09-26T18:12:27+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001575s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0445s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0302s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0294s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0015s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000645s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000774s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.089105s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089289s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001606s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002269s ]
+
+[ 2017-09-26T18:13:52+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0446s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0413s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0311s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0016s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000701s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000873s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.089318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089420s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001623s ]
+
+[ 2017-09-26T18:17:05+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0466s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0410s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0301s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0012s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000674s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000779s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.101692s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101804s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002653s ]
+
+[ 2017-09-26T18:17:40+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001565s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0417s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0611s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0293s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0015s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000697s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000843s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.090930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091045s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000980s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002208s ]
+
+[ 2017-09-26T18:19:36+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0509s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0545s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0007s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000387s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000451s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060099s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001518s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001631s ]
+
+[ 2017-09-26T18:19:45+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001824s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0463s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0361s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0306s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0013s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000412s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000509s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001447s ]
+
+[ 2017-09-26T18:20:09+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0514s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0499s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0581s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000307s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000405s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047673s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001779s ]
+
+[ 2017-09-26T18:20:20+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0549s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0299s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0301s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000667s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000796s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.090830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.090966s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002157s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002320s ]
+
+[ 2017-09-26T18:20:55+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001605s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0439s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0316s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0291s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000617s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000728s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.096845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.096952s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000988s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002465s ]
+
+[ 2017-09-26T18:21:39+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001539s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0535s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0219s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0236s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0007s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000379s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000449s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001619s ]
+
+[ 2017-09-26T18:22:28+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001369s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0540s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0295s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0366s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0014s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000643s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000754s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002269s ]
+
+[ 2017-09-26T18:22:40+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0233s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0163s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0185s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0007s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000253s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000312s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063173s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002243s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002465s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000984s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001056s ]
+
+[ 2017-09-26T18:23:23+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0436s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0316s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0314s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0012s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000615s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000722s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075199s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075284s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001741s ]
+
+[ 2017-09-26T18:25:14+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000640s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0524s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0314s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0385s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0012s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000491s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002817s ]
+
+[ 2017-09-26T18:25:42+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0466s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0291s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0317s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0014s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000620s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000800s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.092857s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092985s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002167s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002332s ]
+
+[ 2017-09-26T18:25:48+08:00 ] ::1 /Angelababy/Bf1/Bf1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0407s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0238s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0195s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0007s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000960s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001029s ]
+
+[ 2017-09-26T18:25:55+08:00 ] ::1 /Angelababy/Usercenter/usercenter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0872s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0376s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0680s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0014s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000370s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000492s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086146s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086254s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002018s ]
+
+[ 2017-09-26T18:25:56+08:00 ] ::1 /Angelababy/Usercenter/php/buycar_chaxun.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0308s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0199s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0206s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0008s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+ERR: 非法操作:php
+
+[ 2017-09-26T18:26:07+08:00 ] ::1 /Angelababy/Usercenter/usercenter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0454s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0287s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000347s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000449s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087095s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087316s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002839s ]
+
+[ 2017-09-26T18:26:08+08:00 ] ::1 /Angelababy/Usercenter/php/buycar_chaxun.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0289s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0204s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0213s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0008s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+ERR: 非法操作:php
+
+[ 2017-09-26T18:26:40+08:00 ] ::1 /Angelababy/Usercenter/usercenter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0395s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0338s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0303s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000385s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000501s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068488s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.068570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001748s ]
+
+[ 2017-09-26T18:27:10+08:00 ] ::1 /Angelababy/Buycar/buycar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0515s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0300s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0321s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0012s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `meitu_product` [ RunTime:0.0450s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `meitu_product` LIMIT 1   [ RunTime:0.0527s ]
+SQL: SELECT * FROM `meitu_product` LIMIT 0,12   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000324s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000430s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.196665s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.196786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002044s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002857s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003055s ]
+
+[ 2017-09-26T18:27:20+08:00 ] ::1 /Angelababy/Buycar/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0565s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0370s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0304s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+SQL: SELECT `count` FROM `meitu_cart_detail` WHERE `productId` = 2 LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `meitu_cart_detail` SET `count`='5' WHERE `productId` = 2 [ RunTime:0.0205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001815s ]
+
+[ 2017-09-26T18:27:21+08:00 ] ::1 /Angelababy/Buycar/select
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001572s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0407s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0196s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0215s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0007s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001245s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001345s ]
+
+[ 2017-09-26T18:28:55+08:00 ] ::1 /Angelababy/Buycar/buycar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001578s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0384s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0313s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0397s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0017s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `meitu_product` [ RunTime:0.0309s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `meitu_product` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `meitu_product` LIMIT 0,12   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000315s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000420s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118190s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118304s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001793s ]
+
+[ 2017-09-26T18:29:01+08:00 ] ::1 /Angelababy/Buycar/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0944s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0309s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0292s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0028s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+SQL: SELECT `count` FROM `meitu_cart_detail` WHERE `productId` = 3 LIMIT 1   [ RunTime:0.0007s ]
+SQL: UPDATE `meitu_cart_detail` SET `count`='5' WHERE `productId` = 3 [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001807s ]
+
+[ 2017-09-26T18:29:02+08:00 ] ::1 /Angelababy/Buycar/select
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001376s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0380s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0300s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0293s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001850s ]
+
+[ 2017-09-26T18:29:31+08:00 ] ::1 /Angelababy/Buycar/buycar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002045s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0423s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0811s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0325s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0016s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `meitu_product` [ RunTime:0.0366s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `meitu_product` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `meitu_product` LIMIT 0,12   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073872s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001828s ]
+
+[ 2017-09-26T18:29:39+08:00 ] ::1 /Angelababy/Buycar/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0371s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0281s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0289s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+SQL: SELECT `count` FROM `meitu_cart_detail` WHERE `productId` = 1 LIMIT 1   [ RunTime:0.0007s ]
+SQL: UPDATE `meitu_cart_detail` SET `count`='9' WHERE `productId` = 1 [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001623s ]
+
+[ 2017-09-26T18:29:41+08:00 ] ::1 /Angelababy/Buycar/select
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0430s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0298s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0394s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001511s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001595s ]
+
+[ 2017-09-26T18:30:19+08:00 ] ::1 /Angelababy/Buycar/buycar
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002074s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0473s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0280s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0325s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0018s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `meitu_product` [ RunTime:0.0341s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `meitu_product` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `meitu_product` LIMIT 0,12   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000315s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000435s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.092204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000934s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001731s ]
+
+[ 2017-09-26T18:30:24+08:00 ] ::1 /Angelababy/Buycar/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0405s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0284s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0285s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0012s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+SQL: SELECT `count` FROM `meitu_cart_detail` WHERE `productId` = 1 LIMIT 1   [ RunTime:0.0006s ]
+SQL: UPDATE `meitu_cart_detail` SET `count`='10' WHERE `productId` = 1 [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001690s ]
+
+[ 2017-09-26T18:30:25+08:00 ] ::1 /Angelababy/Buycar/select
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0486s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0228s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0212s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0010s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001563s ]
+
+[ 2017-09-26T18:30:31+08:00 ] ::1 /Angelababy/Buycar/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002167s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0491s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0306s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0323s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+SQL: SELECT `count` FROM `meitu_cart_detail` WHERE `productId` = 2 LIMIT 1   [ RunTime:0.0009s ]
+SQL: UPDATE `meitu_cart_detail` SET `count`='6' WHERE `productId` = 2 [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001761s ]
+
+[ 2017-09-26T18:30:32+08:00 ] ::1 /Angelababy/Buycar/select
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0442s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0385s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0325s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0012s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001798s ]
+
+[ 2017-09-26T18:32:08+08:00 ] ::1 /Angelababy/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.0367s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0282s ]
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 8 行.
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0344s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0012s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+NOTIC: [8] Undefined index: uname D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 11 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000606s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000720s ]
+NOTIC: [8] Undefined variable: uname D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 49 行.
+NOTIC: [8] Undefined variable: arr D:\WWW\Angelababy\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 75 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.088154s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088260s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001244s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002144s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002289s ]
+
+[ 2017-09-26T18:32:09+08:00 ] ::1 /Angelababy/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000751s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010640s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2017-09-26T18:32:13+08:00 ] ::1 /Angelababy/Login/checked
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\LoginController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0421s ]
+SQL: SELECT * FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001668s ]
+
+[ 2017-09-26T18:32:15+08:00 ] ::1 /Angelababy/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.1120s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.1591s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0709s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000607s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000729s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.089885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089992s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002197s ]
+
+[ 2017-09-26T18:32:19+08:00 ] ::1 /Angelababy/Usercenter/usercenter
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000468s ]
+SQL: SHOW COLUMNS FROM `meitu_cart` [ RunTime:0.1633s ]
+SQL: SHOW COLUMNS FROM `meitu_user` [ RunTime:0.0330s ]
+SQL: SELECT `uid` FROM `meitu_user` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `cid` FROM `meitu_cart` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `meitu_cart_detail` [ RunTime:0.0338s ]
+SQL: SELECT * FROM `meitu_cart_detail` INNER JOIN meitu_product  WHERE ( cartId=1 and productId=pid )  [ RunTime:0.0011s ]
+NOTIC: [8] A session had already been started - ignoring session_start() D:\WWW\Angelababy\Application\Home\Controller\BaseController.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000264s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000409s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001187s ]
+
